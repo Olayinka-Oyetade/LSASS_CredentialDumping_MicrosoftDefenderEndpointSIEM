@@ -1,0 +1,1 @@
+# LSASS_CredentialDumping_MicrosoftDefenderEndpointSIEM
