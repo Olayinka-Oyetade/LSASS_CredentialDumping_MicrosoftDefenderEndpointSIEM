@@ -1,4 +1,4 @@
-# LSASS Credential Dumping: Detection Validation & Incident Investigation
+# LSASS Credential Dumping: Detection Validation & Incident Investigation with MDE
 
 ### MITRE ATT&CK T1003.001 · Microsoft Defender for Endpoint · KQL Threat Hunting · Atomic Red Team
 
